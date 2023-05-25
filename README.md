@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=felenitaribeiro)](https://github.com/felenitaribeiro/github-readme-stats)
+
+I’m working on making segmentation models more robust for medical image analysis. But my interests are vast :smiley:. So here, you will find a couple of repos for retinotopic mapping with geometric deep learning and studies of individual variability of human fMRI data. 
+
 
 <!--
 **felenitaribeiro/felenitaribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
